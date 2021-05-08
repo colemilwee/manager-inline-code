@@ -1,0 +1,10 @@
+.card {
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-size: 42px;
+}
