@@ -20,7 +20,7 @@ This is a in line code project designed to make a team comprised of engineers ma
 
 
   ##Installation
-install npm, npm iquirer, and npm jest
+install npm, npm inquirer, and npm jest
 
   ##Usage
 
