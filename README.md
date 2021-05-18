@@ -23,6 +23,8 @@ This is a in line code project designed to make a team comprised of engineers ma
 install npm, npm inquirer, and npm jest
 
   ##Usage
+  heres a video of me doing it
+https://www.youtube.com/watch?v=jErHlDEalEs
 
 you then can use in your terminal node index.js
 
